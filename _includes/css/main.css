@@ -245,13 +245,19 @@ section.success {
       max-width: 32%;
     }
   }
-  /* A large grid might need four columns on widescreen layouts */
-  /* @media (min-width: 1380px) {
-    .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
-      flex: 1 0 23.5%;
-      max-width: 23.5%;
-    }
-  } */
+.btn-success {
+    color : #2c3945 !important;
+    font-weight: 700;
+}
+
+.btn-success:hover {
+    background-color : #9ba4ac !important;
+    font-weight: 700;
+}
+
+.btn-lg {
+    width: 100%;
+}
 
 .btn-outline {
     margin-top: 15px;
@@ -267,9 +273,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    background-color: black !important ;
-    color: #{{ site.color.primary }};
-    background-color: #fff;
+    background-color: black !important ;    
 }
 
 .floating-label-form-group {

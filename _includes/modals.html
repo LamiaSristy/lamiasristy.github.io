@@ -21,7 +21,7 @@
                             <ul class="list-inline item-details">
                                 {% if post.git %}
                                     <li>Repository:
-                                        <strong><a href="{{post.git-url}}">{{ post.git }}</a>
+                                        <strong><a href="{{post.git-url}}" target="_blank">{{ post.git }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
@@ -31,9 +31,9 @@
                                         </strong>
                                     </li>
                                 {% endif %}
-                                {% if post.category %}
-                                    <li>Service:
-                                        <strong><a href="#">{{ post.category }}</a>
+                                {% if post.live_demo-url %}
+                                    <li>See Live Demo:
+                                        <strong><a href="{{post.live_demo-url}}" target="_blank">{{ post.live_demo }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}

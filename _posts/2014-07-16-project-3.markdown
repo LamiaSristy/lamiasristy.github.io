@@ -7,6 +7,7 @@ alt: image-alt
 project-date: August 2020
 git: Online Shop
 git-url: https://github.com/LamiaSristy/Online-shop
-category: Web Development
+live_demo: Loniryy
+live_demo-url: https://raw.githack.com/LamiaSristy/Online-shop/master/index.html
 description: Loniryy is an online shop for buying and selling wristwatches. This is the perfect place for purchasing fashionable watches as well as refurbished ones. The website was originally designed by following an online shop for electronics designed by Mohammed Awad on Behance. Built-with- HTML5, SASS, Bootstrap4.
 ---
