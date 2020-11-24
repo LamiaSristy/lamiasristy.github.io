@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2020-08-23
+img: project1.png
+alt: image-alt
+project-date: August 2020
+git: Transactions App
+git-url: https://github.com/LamiaSristy/transactions_app
+category: Web Development
+description: This project is an application for calculating expenses. Users can create, edit and delete transactions and group them. Built-with- Ruby, RoR, PostgreSQL.
+---
