@@ -40,14 +40,14 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: github
+    url: https://github.com/LamiaSristy
   - title: twitter
     url: https://twitter.com/lsristy1
   - title: linkedin
     url: https://www.linkedin.com/in/lamia-hemayet-sristy/
-  - title: medium
-    url: https://medium.com/@lamiasristy
-  - title: github
-    url: https://github.com/LamiaSristy
+  # - title: Medium
+  #   url: https://medium.com/@lamiasristy  
 
 # Postal address (add as many lines as necessary)
 address:

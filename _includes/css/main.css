@@ -268,6 +268,15 @@ section.success {
     transition: all .3s ease-in-out;
 }
 
+.btn-outline-black {
+    margin-top: 15px;
+    border: solid 2px #000;
+    font-size: 20px;
+    color: #000;
+    background: 0 0;
+    transition: all .3s ease-in-out;
+}
+
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
@@ -359,6 +368,17 @@ footer .footer-below {
     width: 50px;
     height: 50px;
     border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 20px;
+    line-height: 45px;
+}
+
+.btn-social-black {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #000;
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
