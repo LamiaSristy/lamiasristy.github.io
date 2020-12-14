@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 2
-date: 2020-09-21
+date: 2020-12-10
 img: project2.png
 alt: image-alt
-project-date: September 21
-git: Recipe Crawler
-git-url: https://github.com/LamiaSristy/effective_recipe_crawler
-description: This project is a web scraper/ web crawler, which takes a food recipe website and scrapes its data to show the expected recipes.
+project-date: December 10
+git: Restaurant Homepage
+git-url: https://github.com/LamiaSristy/Restaurant-Homepage-JS
+live_demo: My_Restaurant
+live_demo-url: https://raw.githack.com/LamiaSristy/Restaurant-Homepage-JS/gh-pages/index.html
+description: This project is focusing on dynamically rendering a simple restaurant homepage, using DOM manipulation in JavaScript.
 ---
