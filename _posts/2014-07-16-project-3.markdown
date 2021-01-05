@@ -5,9 +5,9 @@ date: 2020-08-23
 img: project3.png
 alt: image-alt
 project-date: August 2020
-git: Online Shop
-git-url: https://github.com/LamiaSristy/Online-shop
-live_demo: Loniryy
-live_demo-url: https://raw.githack.com/LamiaSristy/Online-shop/master/index.html
-description: Loniryy is an online shop for buying and selling wristwatches. This is the perfect place for purchasing fashionable watches as well as refurbished ones. The website was originally designed by following an online shop for electronics designed by Mohammed Awad on Behance. Built-with- HTML5, SASS, Bootstrap4.
+git: Check-Weather-Repo
+git-url: https://github.com/LamiaSristy/Weather-App-JS
+live_demo: Check-Weather
+live_demo-url: https://lamiasristy.github.io/Weather-App-JS/
+description: This project is a weather forecast site, using the weather API. Here a user is able to search for a specific location and toggle displaying the data in Fahrenheit or Celsius..
 ---
